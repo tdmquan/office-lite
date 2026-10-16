@@ -1,0 +1,9 @@
+node_modules/
+build/bin/
+frontend/dist/
+*.log
+test-files/
+frontend/package.json.md5
+*.tsbuildinfo
+.DS_Store
+Thumbs.db
